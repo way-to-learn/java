@@ -1,0 +1,1 @@
+Làm sao để biết Annotation dùng cho class? method? hay property?
